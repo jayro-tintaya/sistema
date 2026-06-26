@@ -1,3 +1,8 @@
 {
     "liveServer.settings.port": 5501
 }
+<?php
+// TODO: Revisar la optimización de este archivo php
+require_once __DIR__ . '/includes/config.php';
+$pageTitle = 'Inicio';
+$activeNav = 'inicio';
